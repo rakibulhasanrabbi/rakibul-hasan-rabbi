@@ -14,7 +14,7 @@ const EDUCATION_DATA = [
   {
     degree: "BSc (Eng.) in Computer Science and Engineering",
     institution: "United International University",
-    period: "Current 6th Trimester",
+    period: "Current 7th Trimester",
     grade: "",
     details: ["Group/Subject: Computer Science and Engineering"]
   },
